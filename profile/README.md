@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/zygenplay/.github/blob/31b96cd8e7514429102354664b908d5a84a64628/assets/zygen-play-readme-1600x500.png"
+    src="https://github.com/zygenplay/.github/blob/6ce0c8dbb228e93e112e04ee21043d9541a904af/assets/zygen-play-readme-v2-1600x500.png"
     alt="ZyGen Play"
     width="100%"
   />
@@ -8,35 +8,37 @@
 
 # ZyGen Play
 
-**ZyGen Play** is a centralized technology playground and knowledge space by **ZyGen Co., Ltd.**
+**ZyGen Play** is a technology playground and knowledge space by **ZyGen Co., Ltd.**
 
 > **Innovating a Better Future for People and Businesses to Grow Sustainably**
 
-ZyGen Play is where we explore ideas, build prototypes, share engineering knowledge, and experiment with technologies that may evolve into products, internal tools, open-source projects, or technical publications.
+Here, we explore ideas, build solutions, experiment with technologies, and share engineering knowledge. Our work spans products, internal tools, open-source projects, and technical publications.
 
 ## What You'll Find Here
 
-- Software experiments and prototypes
+- Software projects and technology experiments
 - Shared libraries and reusable components
 - Internal and open-source tools
 - Architecture and engineering practices
 - Infrastructure and automation
-- Technical research and proof of concepts
-- Developer notes and engineering references
-- Tech journals and technical articles
+- Technical research and proofs of concept
+- Engineering notes, references, and technical articles
 
-Not every repository represents a production-ready product. Some projects are intentionally experimental and may evolve, be replaced, or remain as references for future work.
+Projects vary in maturity and intended use. Some are experimental; others are actively maintained. Check each repository’s README for its status, setup instructions, and usage guidance.
 
 ## Our Approach
 
-**Explore. Build. Learn. Share.**
+**Explore · Build · Learn · Share**
 
-We believe experimentation, documentation, and knowledge sharing are essential parts of engineering.
+- **Explore** — Discover ideas and new possibilities.
+- **Build** — Experiment and innovate to create useful solutions.
+- **Learn** — Develop skills and deepen engineering knowledge.
+- **Share** — Document discoveries and make knowledge accessible.
 
-ZyGen Play provides a space where ideas can be tested, practical knowledge can be preserved, and useful discoveries can be shared with our team and the broader technology community.
+We value practical engineering, thoughtful experimentation, and clear documentation. This space helps us turn ideas into useful outcomes and share what we learn with our team and the broader technology community.
 
 ## About ZyGen
 
-**ZyGen Co., Ltd.** is committed to creating technology and innovation that help people and businesses grow sustainably.
+**ZyGen Co., Ltd.** creates technology and innovation that help people and businesses grow sustainably.
 
-ZyGen Play is one of the spaces where that mission is explored through engineering, experimentation, and shared knowledge.
+ZyGen Play brings that mission into practice through engineering, continuous learning, and shared knowledge.
