@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/zygenplay/.github/blob/6ce0c8dbb228e93e112e04ee21043d9541a904af/assets/zygen-play-readme-v2-1600x500.png"
+    src="https://github.com/zygenplay/.github/blob/77c449446373552011362353a7bc893e178893da/assets/zygen-play-readme-v3-1600x500.png"
     alt="ZyGen Play"
     width="100%"
   />
