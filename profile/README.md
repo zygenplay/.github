@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/zygenplay/.github/main/assets/zygen-play-banner.png"
+    alt="ZyGen Play"
+    width="100%"
+  />
+</p>
+
 # ZyGen Play
 
 **ZyGen Play** is a centralized technology playground and knowledge space by **ZyGen Co., Ltd.**
